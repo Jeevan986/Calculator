@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-file:///Users/jeevanbastola/Downloads/ezgif.com-gif-maker.gif
+
 
 
 ## License
